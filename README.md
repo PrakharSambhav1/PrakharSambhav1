@@ -6,7 +6,7 @@
 
 Exploring AI-driven applications and Flutter to create intelligent, cross-platform products.
 
-Building my freelance journey on Upwork to deliver high-quality, business-ready solutions.
+Building my journey to deliver high-quality, business-ready solutions.
 
 Sharpening my software architecture and system design skills to craft robust, future-proof systems.
 
