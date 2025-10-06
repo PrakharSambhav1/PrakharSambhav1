@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @PrakharSambhav1
-- 👀 I’m interested in 100 Days of code & JS/TS Frameworks
-- 🌱 I’m currently learning a lot of things
-- 💞️ I’m looking to collaborate on Angular & Node Projects
-- 📫 How to reach me on LinkedIN, I guess...
+👋 Hi, I’m Prakhar Sambhav — a Technical Manager and Full-Stack JavaScript Developer with 8+ years of experience building scalable web solutions and leading cross-functional teams.
 
-<!---
-PrakharSambhav1/PrakharSambhav1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I specialize in JavaScript, React, Angular, Node.js, Express, SQL, MongoDB, and AWS — bridging clean architecture with real-world impact. My strength lies in implementation and system integration, ensuring ideas move fast from concept to production.
+
+🚀 Currently, I’m:
+
+Exploring AI-driven applications and Flutter to create intelligent, cross-platform products.
+
+Building my freelance journey on Upwork to deliver high-quality, business-ready solutions.
+
+Sharpening my software architecture and system design skills to craft robust, future-proof systems.
+
+⚙️ Tech Philosophy: “Clean design, scalable code, and meaningful impact.”
+🧠 Learning Goals: AI for developers, Flutter, and architectural excellence.
+🌍 Based in India | 🕒 Value: Time > Freedom > Income > Impact
